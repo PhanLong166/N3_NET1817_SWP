@@ -45,3 +45,16 @@
 |  | Search material |
 |  | Filter material |
 |  | Delete material |
+
+### Member assignment
+| Sprint | User story | Assignee |
+| ------------- | ------------- | ------------- |
+| 1 | UC01 - Login account | Minh Tiến |
+|   | UC02 - Register account | Minh Tiến |
+|   | UC03 - View account | Huyền Trang |
+|   | UC04 - Search account | Như Nguyên |
+|   | UC05 - Edit account | Như Nguyên |
+|   | UC06 - Ban account | Huyền Trang |
+|   | UC07 - Add staff | Trung Nguyên |
+|   | UC08 - Add manager | Trung Nguyên |
+|   | UC09 - Logout | Phan Long |
