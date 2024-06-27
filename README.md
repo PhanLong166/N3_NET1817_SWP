@@ -47,6 +47,7 @@
 |  | UC41 - Delete material |
 
 ### Member assignment
+#### Sprint 1
 | Sprint | User story | Assignee |
 | ------------- | ------------- | ------------- |
 | 1 | UC01 - Login account | Minh Tiến |
@@ -59,20 +60,69 @@
 |   | UC08 - Add manager | Trung Nguyên |
 |   | UC09 - Logout | Phan Long |
 
+#### Sprint 2
 <table>
   <tr>
     <th>Assignee</th>
     <th>User story</th>
   </tr>
   <tr>
-    <td rowspan="3">Phan Long</td>
+    <td rowspan="8">Phan Long</td>
     <td>UC10</td>
   </tr>
-  <tr><td>UC11</td></tr>
   <tr><td>UC12</td></tr>
+  <tr><td>UC13</td></tr>
+  <tr><td>UC14</td></tr>
+  <tr><td>UC15</td></tr>
+  <tr><td>UC16</td></tr>
+  <tr><td>UC17</td></tr>
+  <tr><td>UC18</td></tr>
+  
   <tr>
-    <td>Row 3, Cell 1</td>
-    <td>Row 3, Cell 2</td>
+    <td rowspan="8">Trung Nguyên</td>
+    <td>UC19</td>
   </tr>
+  <tr><td>UC21</td></tr>
+  <tr><td>UC22</td></tr>
+  <tr><td>UC23</td></tr>
+  <tr><td>UC24</td></tr>
+  <tr><td>UC25</td></tr>
+  <tr><td>UC27</td></tr>
+  <tr><td>UC28</td></tr>
+
+  <tr>
+    <td rowspan="8">Huyền Trang</td>
+    <td>UC29</td>
+  </tr>
+  <tr><td>UC30</td></tr>
+  <tr><td>UC31</td></tr>
+  <tr><td>UC32</td></tr>
+  <tr><td>UC34</td></tr>
+  <tr><td>UC35</td></tr>
+  <tr><td>UC36</td></tr>
+  <tr><td>UC38</td></tr>
+
+  <tr>
+    <td rowspan="8">Như Nguyên</td>
+    <td>UC39</td>
+  </tr>
+  <tr><td>UC40</td></tr>
+  <tr><td>UC41</td></tr>
+  <tr><td>UC42</td></tr>
+  <tr><td>UC44</td></tr>
+  <tr><td>UC45</td></tr>
+  <tr><td>UC46</td></tr>
+  <tr><td>UC47</td></tr>
+
+  <tr>
+    <td rowspan="8">Minh Tiến</td>
+    <td>UC48</td>
+  </tr>
+  <tr><td>UC49</td></tr>
+  <tr><td>UC50</td></tr>
+  <tr><td>UC51</td></tr>
+  <tr><td>UC52</td></tr>
+  <tr><td>UC54</td></tr>
+  <tr><td>UC55</td></tr>
 </table>
 
