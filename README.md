@@ -48,17 +48,40 @@
 
 ### Member assignment
 #### Sprint 1
-| Sprint | User story | Assignee |
-| ------------- | ------------- | ------------- |
-| 1 | UC01 - Login account | Minh Tiến |
-|   | UC02 - Register account | Minh Tiến |
-|   | UC03 - View account | Huyền Trang |
-|   | UC04 - Search account | Như Nguyên |
-|   | UC05 - Edit account | Như Nguyên |
-|   | UC06 - Ban account | Huyền Trang |
-|   | UC07 - Add staff | Trung Nguyên |
-|   | UC08 - Add manager | Trung Nguyên |
-|   | UC09 - Logout | Phan Long |
+<table>
+  <tr>
+    <th>Assignee</th>
+    <th>User story</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Minh Tiến</td>
+    <td>UC01 - Login account</td>
+  </tr>
+  <tr><td>UC02 - Register account</td></tr>
+  
+  <tr>
+    <td rowspan="2">Huyền Trang</td>
+    <td>UC03 - View account</td>
+  </tr>
+  <tr><td>UC04 - Search account</td></tr>
+
+  <tr>
+    <td rowspan="2">Như Nguyên</td>
+    <td>UC05 - Edit account</td>
+  </tr>
+  <tr><td>UC06 - Ban account</td></tr>
+
+  <tr>
+    <td rowspan="2">Trung Nguyên</td>
+    <td>UC07 - Add staff</td>
+  </tr>
+  <tr><td>UC08 - Add manager</td></tr>
+
+  <tr>
+    <td>Phan Long</td>
+    <td>UC09 - Logout</td>
+  </tr>
+</table>
 
 #### Sprint 2
 <table>
@@ -67,7 +90,7 @@
     <th>User story</th>
   </tr>
   <tr>
-    <td rowspan="8">Phan Long</td>
+    <td rowspan="7">Phan Long</td>
     <td>UC12 - Create diamond</td>
   </tr>
   <tr><td>UC13 - Update diamond</td></tr>
