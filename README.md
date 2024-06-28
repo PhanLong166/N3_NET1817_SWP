@@ -1,5 +1,9 @@
 # Aphromas Diamond - Diamond Shop System
 
+<div id="header" align="center">
+  <img src="https://i.imgur.com/qh73RmE.png" width="100"/>
+</div>
+
 ## 1. Introduction
 
 ## 2. Demo image
