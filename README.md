@@ -29,6 +29,31 @@ At Aphromas Diamond, we believe that every diamond tells a unique story. As a pr
 
 ## 4. Technologies
 
+### Front-end Development :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vitejs" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="Axios" height="50" />
+</div>
+
+### Back-end Development :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="Nestjs" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" height="50" />
+</div>
+
+### Deployment :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="Github Actions" height="50" />
+</div>
+
 ## 5. Assignment
 
 ### User story table
