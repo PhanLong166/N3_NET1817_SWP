@@ -1,14 +1,31 @@
 # Aphromas Diamond - Diamond Shop System
 
 <div id="header" align="center">
-  <img src="https://i.imgur.com/qh73RmE.png" width="100"/>
+  <img src="https://i.imgur.com/qh73RmE.png" width="200"/>
 </div>
 
 ## 1. Introduction
+### Welcome to Aphromas Diamond
 
+At Aphromas Diamond, we believe that every diamond tells a unique story. As a premier online diamond retailer, we are dedicated to helping you find the perfect gem that captures the essence of your most cherished moments. Whether you're looking for an engagement ring that symbolizes eternal love, a timeless piece to celebrate an anniversary, or a stunning gift to mark a special occasion, Aphromas Diamond is here to make your dreams sparkle.
 ## 2. Demo image
 
+<div id="header" align="center">
+  <img src="https://i.imgur.com/JJlGebq.jpeg" width="1280"/>
+</div>
+
 ## 3. Epic features
+
+<ul>
+  <li>Manage Account</li>
+  <li>Manage Jewelry</li>
+  <li>Manage Order</li>
+  <li>Manage Cart</li>
+  <li>Manage Analysis Reports</li>
+  <li>Manage Marketing</li>
+  <li>Manage Notification</li>
+  <li>Support center</li>
+</ul>
 
 ## 4. Technologies
 
